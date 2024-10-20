@@ -444,6 +444,9 @@ header{
     flex-direction: column;
 }
 
+.mainproyecto__div__iframe{
+    width: 250px;
+}
 
 /*tienda*/
 .mainproducto{
@@ -641,6 +644,10 @@ header{
         justify-content: center;
     }
 
+    .mainproyecto__div__iframe{
+        width: 450px;
+    }
+
 
     /*tienda*/
 
@@ -825,6 +832,10 @@ header{
 
     .quienessomos{
         flex-direction: row;
+    }
+
+    .mainproyecto__div__iframe{
+        width: 600px;
     }
 
     /*tienda*/
